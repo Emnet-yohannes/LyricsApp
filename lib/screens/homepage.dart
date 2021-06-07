@@ -248,7 +248,7 @@ class _HomePageState extends State<HomePage> {
                                   gradient: LinearGradient(
                                     begin: Alignment.bottomCenter,
                                     end: Alignment.topCenter,
-                                    colors: [kPrimary, Colors.black.withOpacity(0.0)]
+                                    // colors: [kPrimary, Colors.black.withOpacity(0.0)]
                                   )
                                 ),
                               ),

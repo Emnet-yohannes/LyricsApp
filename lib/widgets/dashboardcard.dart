@@ -14,7 +14,7 @@ class DashboardCard extends StatelessWidget{
         decoration: BoxDecoration(
             borderRadius: BorderRadius.all(Radius.circular(10)),
             gradient: LinearGradient(
-                colors: [colors[0], colors[0]]
+                // Colors: [colors[0], colors[0]]
             )
         ),
         child: Padding(
